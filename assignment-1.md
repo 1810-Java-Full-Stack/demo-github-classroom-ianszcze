@@ -1,3 +1,5 @@
+Ian Szczesniak
+
 # Demo
 
 This is just a demo of how Github Classroom works and how you can interact with it to complete my challenges
